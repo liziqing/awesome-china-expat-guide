@@ -97,6 +97,29 @@
 
 ---
 
+
+## 跨境收款工具 (Cross-Border Payment Tools)
+
+- [Payoneer 评测](https://chinaabroadguide.com/payoneer-review/) — 亚马逊/eBay卖家最常用的跨境收款工具，费率、速度、优缺点全面分析。
+- [万里汇 WorldFirst 评测](https://chinaabroadguide.com/worldfirst-review/) — 蚂蚁旗下外贸收款平台，换汇汇率优势及开户要求详解。
+- [Airwallex vs Payoneer vs 万里汇对比](https://chinaabroadguide.com/airwallex-vs-payoneer-vs-worldfirst/) — 三大跨境收款平台深度横向对比。
+
+## 海外银行开户 (Overseas Banking)
+
+- [香港汇丰银行商业账户开户指南](https://chinaabroadguide.com/hsbc-hong-kong-business-account/) — 2026年最新汇丰香港开户要求、被拒原因及材料清单。
+- [众安银行（ZA Bank）香港开户](https://chinaabroadguide.com/za-bank-hong-kong/) — 100%线上开户的香港虚拟银行，无需赴港。
+- [香港公司如何开美国银行账户](https://chinaabroadguide.com/hong-kong-company-us-bank-account/) — Mercury、Relay等可接受外国公司申请的美国银行指南。
+
+## 公司注册 (Company Formation)
+
+- [新加坡 vs 香港公司注册对比](https://chinaabroadguide.com/singapore-vs-hong-kong-company/) — 税务、银行、成本五维度深度对比，帮出海企业选择最优架构。
+- [英国公司注册流程及费用](https://chinaabroadguide.com/uk-company-registration/) — 中国股东全程远程注册英国有限公司，政府费用仅£50。
+
+## 全球雇佣 (Global Employment)
+
+- [Oyster HR 评测（中国出海版）](https://chinaabroadguide.com/oyster-review-china/) — 中国企业用Oyster在海外合规雇员的真实成本与体验。
+- [Rippling 评测（中国出海版）](https://chinaabroadguide.com/rippling-review-china/) — HR+IT+Payroll一体化：适合已有美国实体的出海公司。
+
 ## Contributing
 
 Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
